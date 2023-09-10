@@ -1,0 +1,30 @@
+[submodule "BaseTask"]
+	path = BaseTask
+	url = https://github.com/pavver/Component-BaseTask.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/pavver/Component-Core.git
+[submodule "EventManager"]
+	path = EventManager
+	url = https://github.com/pavver/Component-EventManager.git
+[submodule "HttpServer"]
+	path = HttpServer
+	url = https://github.com/pavver/Component-HttpServer.git
+[submodule "Component-Nvs"]
+	path = Component-Nvs
+	url = https://github.com/pavver/Component-Nvs.git
+[submodule "Nvs"]
+	path = Nvs
+	url = https://github.com/pavver/Component-Nvs.git
+[submodule "HttpServer_EventManager"]
+	path = HttpServer_EventManager
+	url = https://github.com/pavver/Component-HttpServer_EventManager.git
+[submodule "HttpOta"]
+	path = HttpOta
+	url = https://github.com/pavver/Component-HttpOta.git
+[submodule "HttpFs"]
+	path = HttpFs
+	url = https://github.com/pavver/Component-HttpFs.git
+[submodule "WiFiManager"]
+	path = WiFiManager
+	url = https://github.com/pavver/Component-WiFiManager.git
