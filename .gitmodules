@@ -28,3 +28,9 @@
 [submodule "WiFiManager"]
 	path = WiFiManager
 	url = https://github.com/pavver/Component-WiFiManager.git
+[submodule "LogBuffer"]
+	path = LogBuffer
+	url = https://github.com/pavver/Component-LogBuffer.git
+[submodule "LogBuffer_HttpServer"]
+	path = LogBuffer_HttpServer
+	url = https://github.com/pavver/Component-LogBuffer_HttpServer.git
