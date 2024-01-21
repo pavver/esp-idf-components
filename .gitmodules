@@ -1,39 +1,52 @@
 [submodule "BaseTask"]
 	path = BaseTask
 	url = https://github.com/pavver/Component-BaseTask.git
+	branch = main
 [submodule "Core"]
 	path = Core
 	url = https://github.com/pavver/Component-Core.git
+	branch = main
 [submodule "EventManager"]
 	path = EventManager
 	url = https://github.com/pavver/Component-EventManager.git
+	branch = main
 [submodule "HttpServer"]
 	path = HttpServer
 	url = https://github.com/pavver/Component-HttpServer.git
+	branch = main
 [submodule "Component-Nvs"]
 	path = Component-Nvs
 	url = https://github.com/pavver/Component-Nvs.git
+	branch = main
 [submodule "Nvs"]
 	path = Nvs
 	url = https://github.com/pavver/Component-Nvs.git
+	branch = main
 [submodule "HttpServer_EventManager"]
 	path = HttpServer_EventManager
 	url = https://github.com/pavver/Component-HttpServer_EventManager.git
+	branch = main
 [submodule "HttpOta"]
 	path = HttpOta
 	url = https://github.com/pavver/Component-HttpOta.git
+	branch = main
 [submodule "HttpFs"]
 	path = HttpFs
 	url = https://github.com/pavver/Component-HttpFs.git
+	branch = main
 [submodule "WiFiManager"]
 	path = WiFiManager
 	url = https://github.com/pavver/Component-WiFiManager.git
+	branch = main
 [submodule "LogBuffer"]
 	path = LogBuffer
 	url = https://github.com/pavver/Component-LogBuffer.git
+	branch = main
 [submodule "LogBuffer_HttpServer"]
 	path = LogBuffer_HttpServer
 	url = https://github.com/pavver/Component-LogBuffer_HttpServer.git
+	branch = main
 [submodule "FlexibleCircularBuffer"]
 	path = FlexibleCircularBuffer
 	url = https://github.com/pavver/Component-FlexibleCircularBuffer
+	branch = main
