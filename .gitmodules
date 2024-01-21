@@ -34,3 +34,6 @@
 [submodule "LogBuffer_HttpServer"]
 	path = LogBuffer_HttpServer
 	url = https://github.com/pavver/Component-LogBuffer_HttpServer.git
+[submodule "FlexibleCircularBuffer"]
+	path = FlexibleCircularBuffer
+	url = https://github.com/pavver/Component-FlexibleCircularBuffer
