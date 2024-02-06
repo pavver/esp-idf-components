@@ -50,3 +50,6 @@
 	path = FlexibleCircularBuffer
 	url = https://github.com/pavver/Component-FlexibleCircularBuffer
 	branch = main
+[submodule "AS5600"]
+	path = AS5600
+	url = https://github.com/pavver/Component-AS5600.git
