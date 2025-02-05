@@ -49,3 +49,6 @@
 [submodule "AS5600"]
 	path = AS5600
 	url = https://github.com/pavver/Component-AS5600.git
+[submodule "EventBus"]
+	path = EventBus
+	url = https://github.com/pavver/Component-EventBus.git
