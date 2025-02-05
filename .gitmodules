@@ -14,10 +14,6 @@
 	path = HttpServer
 	url = https://github.com/pavver/Component-HttpServer.git
 	branch = main
-[submodule "Component-Nvs"]
-	path = Component-Nvs
-	url = https://github.com/pavver/Component-Nvs.git
-	branch = main
 [submodule "Nvs"]
 	path = Nvs
 	url = https://github.com/pavver/Component-Nvs.git
